@@ -5,4 +5,4 @@ This repository contains the abstract, codes, and result tables for the fORged b
 
 <br>
 
-## Go to branch "master: to see the contents. 
+## Go to branch "master" to see the contents. 
